@@ -1,0 +1,19 @@
+{
+  "name": "auto-blend",
+  "version": "1.0.0",
+  "description": "Scripts to make HR work faster.",
+  "main": "annual-leave.js",
+  "scripts": {
+    "build": "mkdir -p dist && cp index.html dist/index.html && cp nenkyu.js dist/nenkyu.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiekaren/auto-blend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiekaren/auto-blend/issues"
+  },
+  "homepage": "https://github.com/xiekaren/auto-blend#readme"
+}
