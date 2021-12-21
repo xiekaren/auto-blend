@@ -1,0 +1,3 @@
+(function annualLeave() {
+    alert("Hello!");
+})();
